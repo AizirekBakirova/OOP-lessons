@@ -1,4 +1,4 @@
-// Chalenge, create a class Booke
+// Challenge, create a class Book
 class Book {
   String? name;
   String? author;
