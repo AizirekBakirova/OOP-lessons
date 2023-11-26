@@ -29,7 +29,7 @@ void main3() {
   c1.name = 'Sony';
   c1.id = 1;
   c1.mp = 50;
-  c1.price = 5545;
+  c1.price = 5786;
 
   c1.dipslay();
 
