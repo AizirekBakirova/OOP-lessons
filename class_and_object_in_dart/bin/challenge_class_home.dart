@@ -15,6 +15,6 @@ void main() {
   Home home = Home();
   home.name = 'Avangard City';
   home.address = 'Bishkek';
-  home.numberOfRooms = 3;
+  home.numberOfRooms = 4;
   home.display();
 }
