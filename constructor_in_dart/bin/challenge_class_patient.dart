@@ -13,9 +13,9 @@ class Patient {
 
   //method
   void display() {
-    print('Name: ${this.name}');
-    print('Age: ${this.age}');
-    print('Disease: ${this.disease}');
+    print('Name: ${name}');
+    print('Age: ${age}');
+    print('Disease: ${disease}');
   }
 }
 
